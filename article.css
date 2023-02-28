@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.main-container1{
+    background-color: #225db0;
+    background-size: cover;
+    height: 100vh;
+    padding: 35px;
+    padding-top: 50px;
+    color: #ffffff;
+    font-family: "Roboto";
+}
+.tophead1{
+    font-size: 35px;
+}
+.toppara1{
+    font-size: 18px;
+    margin-top: 15px;
+}
+.boxinner-1{
+    text-align: center;
+    width: 50vw;
+    margin-right: 25px;
+    padding-top: 10px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    margin-bottom: 25px;
+}
+.imagee1{
+    height: 8vh;
+}
+.parainner1{
+    padding: 10px;
+    color: #1f2933;
+}
+.bx{
+    margin-top: 40px;
+}
+.main-container2{
+    background-color: #225db0;
+    background-size: cover;
+    color: #ffffff;
+    font-family: "Roboto";
+    padding: 25px;
+}
+.listcontainer{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.headli{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.liele{
+    padding-top: 18px;
+    font-size: 18px;
+}
+.buttoncls{
+    text-align: center;
+}
+.btn{
+    background-color: #225db0;
+    border-color: white;
+}
